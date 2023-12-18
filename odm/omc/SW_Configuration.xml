@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-T583</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OKR</MultiCode>
+    <CustomerDataSet>
+        <CSCName>T583OKR</CSCName>
+        <CSCVersion>1BTG1</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/KOO/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>KOO</CustomerCode>
+            <Version>SAOMC_SM-T583_OKR_KOO_OO_0018</Version>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

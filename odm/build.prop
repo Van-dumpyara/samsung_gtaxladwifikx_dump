@@ -1,0 +1,6 @@
+ro.omc.build.version=T583OKR1BTG1
+ro.omc.build.id=33007405
+ro.omc.changetype=DATA_RESET_ON,FALSE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=TRUE
+ro.omc.region=KOR
